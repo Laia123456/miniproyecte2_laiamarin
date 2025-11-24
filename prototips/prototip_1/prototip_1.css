@@ -1,0 +1,93 @@
+body {
+    background-color: #2F2F2F;
+    color: white;
+}
+
+.cuadro_textos {
+    display: flex;
+}
+
+.cuadro_fotos {
+    display: flex;
+    justify-content: right;
+}
+
+.foto1 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto2 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto3 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto4 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto5 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto6 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto7 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto8 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto9 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto10 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto11 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto12 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto13 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto14 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto15 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
+
+.foto16 img {    
+  border-radius: 54px;            
+  padding: 12px;
+}
