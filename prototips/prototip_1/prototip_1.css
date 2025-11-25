@@ -5,8 +5,14 @@ body {
 }
 
 .cuadro_texto {
+  align-content: center;
+  justify-content: center;
+  width: 40%;
+  padding-left: 132px;
+}
 
-    width: 40%;
+h2 {
+  margin: 15px;
 }
 
 .frase {
@@ -16,21 +22,24 @@ body {
 
 .desing {
   color: #F3B3B7;
-  font-size: 65px;
+  font-size: 72px;
 }
 
 .create {
   color: #88C9E7;
-  font-size: 65px;
+  font-size: 72px;
 }
 
 .inspire {
   color: #3DC8C0;
-  font-size: 65px;
+  font-size: 72px;
 }
 
-.boton {
-
+.boton button{
+  border-radius: 36px;
+  width: 182px;
+  height: 66px;
+  font-size: 24px;
 }
 
 .prueba {
