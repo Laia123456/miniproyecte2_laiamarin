@@ -9,6 +9,18 @@ body {
     width: 40%;
 }
 
+.desing {
+  color: #F3B3B7;
+}
+
+.create {
+  color: #88C9E7;
+}
+
+.inspire {
+  color: #3DC8C0;
+}
+
 .cuadro_fotos {
     display: flex;
     align-items: right;
