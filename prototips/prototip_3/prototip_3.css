@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #F2F2F2;
+}
+
+.caja_textos {
+    width: 695px;
+    height: 297px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 56px;
+}
+
+.texto_titulo {
+    text-align: center;
+    font-size: 24px;
+}
+
+.boton button{
+    background-color: black;
+    color: white;
+    border-radius: 36px;
+    width: 182px;
+    height: 66px;
+    font-size: 24px;
+}
+
+.boton {
+    display: flex;
+    justify-content: center;
+}
+
+.img_rectangulo img{
+    width: 1312px;
+    height: 526px;
+}
