@@ -10,9 +10,10 @@ header {
     align-items: center;
 }
 
-section {
+/*section {
     background-color: #D3D3D3;
 }
+*/
 
 .p_header {
     margin-top: -10px;
@@ -28,83 +29,42 @@ section {
     padding-bottom: 10px;
 }
 
-.img_linia1 {
-    display: flex;
-    justify-content: center;
-    gap: 100px
-}
-
-.img_1 img {
-    width: 450px;
-    border: 2px solid red;
-}
-
-.img_2 img {
-    width: 407px;
-    border: 2px solid red;
-}
-
-.img_3 img {
-    width: 282px;
-    border: 2px solid red;
-}
-
-.img_linia2 {
-    display: flex;
-    justify-content: center;
-    gap: 100px
-}
-
-.img_4 img {
-    width: 310px;
-    border: 2px solid red;
-}
-
-.img_5 img {
-    width: 407px;
-    border: 2px solid red;
-}
-
-.img_6 img {
-    width: 450px;
-    border: 2px solid red;
-}
-
-.img_linia3 {
-    display: flex;
-    justify-content: center;
-    gap: 100px
-}
-
-.img_7 img {
-    width: 282px;
-    border: 2px solid red;
-}
-
-.img_8 img {
-    width: 310px;
-    border: 2px solid red;
-}
-
-.img_9 img {
-    width: 407px;
-    border: 2px solid red;
-}
-
-.img_linia4 {
-    display: flex;
-    justify-content: center;
-    gap: 100px
-}
-
-.img_10 img {
-    width: 450px;
-    border: 2px solid red;
-}
-
 footer {
     background-color: rgb(20, 20, 20);
     color: white;
     text-align: center;
     padding: 10px;
+}
+
+
+.img img{
+    width: 200px;
+}
+
+.containerparrafo {
+    border: solid 2px red
+}
+
+.p_main {
+    border: solid 2px blue;
+}
+
+main {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.engloba_galeria {
+    border: solid 5px green;
+}
+
+.galeria_linia1 {
+    border: solid 5px yellow;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+
+.targeta1 {
+    border: solid 5px red;
 }
