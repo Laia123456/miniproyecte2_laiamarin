@@ -1,11 +1,59 @@
+.blanco_arriba {
+    height: 620px;
+    padding-left: 126px;
+    padding-top: 157px;
+}
+
+.textos_arriba {
+    border: solid 7px blue;
+    width: 464px;
+    height: 498px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+button {
+    background-color: #A36A4F;
+    border-radius: 36px;
+    border: none;
+    width: 179px;
+    height: 66px;
+    color: white;
+    font-size: 24px;
+}
+
+.titulo {
+    font-size: 67px;
+    display: flex;
+    flex-direction: column;
+    margin: 0
+}
+
+.text {
+    font-size: 30px;
+}
+
 .seccion_marron {
     background-color: #363032;
 }
 
 .texto_cuadro_marron {
     color: white;
+    font-family: sans-serif;
 }
 
 .imagenes_cuadro_marron {
-    border-radius: 20px;
+    border-radius: 16px;
+    width: 186px;
+    height: 246px;
+}
+
+.seccion_fotos {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 96px;
+    padding-right: 96px;
+    padding-top: 138px;
+    padding-bottom: 30px;
 }
