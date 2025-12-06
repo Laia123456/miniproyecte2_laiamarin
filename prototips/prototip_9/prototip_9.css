@@ -4,18 +4,40 @@ body {
 
 .container_textos {
     border: solid 5px blue;
+    padding-top: 129px;
+    padding-left: 64px;
+    width: 556px;
+    height: 430px;
+    padding-bottom: 30px;
 }
 
 .container_titulos {
     border: solid 5px green;
     display: flex;
     flex-direction: column;
+    width: 556px;
+    height: 204px;
 }
 
 h2 {
-    font-size: 80px;
+    font-size: 75px;
     color: #333333;
     margin: 0;
+}
+
+.p_titulo {
+    font-size: 24px;
+}
+
+button {
+    background-color: #333333;
+    font-size: 22px;
+    color: #FFFFFF;
+    width: 222px;
+    height: 66px;
+    border: none;
+    border-radius: 40px;
+
 }
 
 /*img*/
