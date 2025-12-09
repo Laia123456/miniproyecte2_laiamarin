@@ -1,16 +1,16 @@
 .blanco_arriba {
     height: 620px;
-    padding-left: 126px;
-    padding-top: 157px;
+    margin-bottom: 100px;
 }
 
 .textos_arriba {
-    border: solid 7px blue;
     width: 464px;
     height: 498px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    margin-top: 70px;
+    margin-left: 150px;
 }
 
 button {
@@ -36,6 +36,7 @@ button {
 
 .seccion_marron {
     background-color: #363032;
+    margin: -8px;
 }
 
 .texto_cuadro_marron {
@@ -58,16 +59,28 @@ button {
     padding-bottom: 30px;
 }
 
-.imagenes img {
-    border: solid 2px red;
+.imagenes {
+    width: 592px;
+    margin-top: 24px;
+    margin-left: 370px;
+    position: relative;
 }
 
 .fotosyletras {
     display: flex;
+    gap: 140px;
 }
 
-.img6_pro4 {
-    width: 30px;
+.img6_pro4 img {
+    width: 440px;
+    position: absolute;
+}
+
+.img7_pro4 img {
+    width: 300px;
+    position: absolute;
+    top: 250px;
+    left: 285px;
 }
 
 .container {
