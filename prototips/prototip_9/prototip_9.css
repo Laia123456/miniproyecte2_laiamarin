@@ -3,7 +3,6 @@ body {
 }
 
 .container_textos {
-    border: solid 5px blue;
     padding-top: 129px;
     padding-left: 64px;
     width: 556px;
@@ -12,7 +11,6 @@ body {
 }
 
 .container_titulos {
-    border: solid 5px green;
     display: flex;
     flex-direction: column;
     width: 556px;
@@ -27,6 +25,8 @@ h2 {
 
 .p_titulo {
     font-size: 24px;
+    margin-bottom: 32px;
+    margin-top: 32px;
 }
 
 button {
@@ -39,6 +39,62 @@ button {
     border-radius: 40px;
 
 }
+
+/*lista*/
+
+.parte_arriba {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 164px;
+}
+
+.lista_pro9 {
+    display: flex;
+    justify-content: space-between;
+    height: 400px;
+    margin-top: 129px;
+    margin-right: 150px;
+}
+
+.columna_izq {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.columna_der {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.casilla {
+    display: flex;
+    justify-content: space-between;
+}
+
+.texto {
+    margin: 0px;
+    font-size: 16px;
+    width: 210px;
+    height: 76px;
+    margin-right: 50px;
+}
+
+.icono img {
+    width: 76px;
+    margin-right: 32px;
+}
+
+h3 {
+    font-size: 28px;
+    margin: 0px;
+}
+
+p {
+    margin: 0px;
+}
+
 
 /*img*/
 
