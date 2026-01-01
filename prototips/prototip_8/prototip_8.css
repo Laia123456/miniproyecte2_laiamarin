@@ -1,0 +1,81 @@
+body {
+    background-color: #010625;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.divisor1 {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    width: 542px;
+    height: 560px;
+    margin-top: 133px;
+    margin-left: 104px;
+}
+
+.titulo {
+    color: white;
+    width: 407px;
+    height: 318px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 85px;
+}
+
+.p_content {
+    font-size: 24px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: white;
+}
+
+button {
+    background-color: white;
+    border-radius: 16px;
+    width: 190px;
+    height: 66px;
+}
+
+.p_button {
+    font-size: 28px;
+    margin: 0;
+}
+
+.img_arribader {
+    display: flex;
+    justify-content: space-between;
+    width: 732px;
+    height: 646px;
+}
+
+.img1_pro8 img {
+    width: 348px;
+    height: 473px;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+
+.img2_pro8 img {
+    width: 348px;
+    height: 473px;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+
+.divisor2 {
+    border: solid 5px red;
+    display: flex;
+    justify-content: center;
+}
+
+.img3_pro8 img {
+    width: 676px;
+    height: 304px;
+    margin-left: 64px;
+    margin-top: 64px;
+    border-radius: 32px;
+}
