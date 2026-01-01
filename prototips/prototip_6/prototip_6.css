@@ -1,0 +1,89 @@
+body {
+    background-color: #9C2004;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1440px;
+    height: 926px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section_izq {
+    width: 656px;
+    height: 861px;
+    margin-top: 64px;
+    margin-left: 64px;
+    position: relative;
+}
+
+.tio_png {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    object-fit: cover;
+}
+
+.tio_png img {
+    width: 618px;
+    height: 861px;
+}
+
+.pattern_arriba {
+    position: absolute;
+    z-index: 2;
+}
+
+.pattern_abajo {
+    position: absolute;
+    z-index: 2;
+    margin-left: 430px;
+    margin-top: 582px;
+}
+
+.sol img {
+    margin-top: 20px;
+}
+
+
+
+.section_der {
+    margin-left: 169px;
+    margin-top: 134px;
+}
+
+.titulo {
+    width: 487px;
+    height: 416px;
+}
+
+h1 {
+    font-size: 88px;
+    margin: 0;
+    color: white;
+}
+
+.texto {
+    width: 487px;
+    height: 96px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.p_texto {
+    font-size: 24px;
+    margin: 0;
+    color: white;
+}
+
+.button {
+    background-color: #E5B94B;
+    border: none;
+    border-radius: 36px;
+    width: 231px;
+    height: 82px;
+}
+
+.p_button {
+    font-size: 32px;
+    margin: 0;
+}
