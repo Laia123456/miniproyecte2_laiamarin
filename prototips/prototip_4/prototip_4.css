@@ -1,3 +1,15 @@
+body {
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+}
+
+.container_carta {
+    width: 1440px;
+    height: 1250px;
+    background-color: white;
+}
+
 .blanco_arriba {
     height: 620px;
     margin-bottom: 100px;
@@ -36,7 +48,6 @@ button {
 
 .seccion_marron {
     background-color: #363032;
-    margin: -8px;
 }
 
 .texto_cuadro_marron {
@@ -61,8 +72,7 @@ button {
 
 .imagenes {
     width: 592px;
-    margin-top: 24px;
-    margin-left: 370px;
+    margin-top: 64px;
     position: relative;
 }
 
@@ -94,7 +104,6 @@ button {
     width: 878px;
     height: 188px;
     border-radius: 80px;
-
     position: absolute;
     top: -90px;
 
