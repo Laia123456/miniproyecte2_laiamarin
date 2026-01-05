@@ -1,0 +1,155 @@
+body {
+    background-color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.divisor_1 {
+    position: relative;
+    width: 1500px;
+    height: 815px;
+}
+
+.caja_text {
+    width: 750px;
+    height: 400px;
+    margin-left: 64px;
+    margin-top: 260px;
+    position: absolute;
+    z-index: 2;
+}
+
+h1 {
+    font-size: 72px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p_text {
+    font-size: 22px;
+    margin: 0;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+button {
+    background-color: white;
+    color: black;
+    width: 215px;
+    height: 66px;
+    border-radius: 40px;
+    border: none;
+}
+
+.p_boton {
+    font-size: 20px;
+    margin: 0;
+}
+
+.img1_pro10 {
+    width: 1000px;
+    position: absolute;
+    z-index: 0;
+    margin-left: 220px;
+}
+
+.sol1_pro10 {
+    width: 380px;
+    z-index: 1;
+    margin-top: 50px;
+}
+
+.cuadrito_1 {
+
+    width: 238px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    z-index: 2;
+    margin-left: 1310px;
+    margin-top: -400px;
+}
+
+.cuadrito_2 {
+    width: 238px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    z-index: 2;
+    margin-left: 875px;
+    margin-top: 65px;
+}
+
+h2 {
+    font-size: 48px;
+    margin: 0;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.p_cuadrito {
+    font-size: 16px;
+    margin: 0;
+}
+
+.divisor_2 {
+    margin-top: 49px;
+    margin-left: 64px;
+}
+
+.caja_cuadros {
+    width: 1312px;
+    height: 238px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.cuadro_1 {
+    border: solid 0.01px;
+    border-radius: 16px;
+    background-color: rgba(77, 72, 72, 0.25);
+}
+
+.cuadro_2 {
+    border: solid 0.01px;
+    border-radius: 16px;
+    background-color: rgba(77, 72, 72, 0.25);
+}
+
+.cuadro_3 {
+    border: solid 0.01px;
+    border-radius: 16px;
+    background-color: rgba(77, 72, 72, 0.25);
+}
+
+.cuadro_4 {
+    border: solid 0.01px;
+    border-radius: 16px;
+    background-color: rgba(77, 72, 72, 0.25);
+}
+
+.star1_pro10 {
+    width: 32px;
+    margin-left: 22px;
+    margin-top: 24px;
+}
+
+.p_cuadro {
+    font-size: 16px;
+    margin: 0;
+    margin-left: 22px;
+    margin-right: 22px;
+}
+
+h3 {
+    font-size: 20px;
+    margin: 0;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: 22px;
+}
