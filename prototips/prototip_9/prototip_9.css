@@ -1,13 +1,23 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 1440px;
+    height: 1024px;
+    background-color: white;
 }
 
 .container_textos {
-    padding-top: 129px;
-    padding-left: 64px;
+    margin-top: 129px;
+    margin-left: 64px;
     width: 556px;
     height: 430px;
-    padding-bottom: 30px;
+    margin-bottom: 30px;
+    margin-right: 80px;
 }
 
 .container_titulos {
@@ -49,7 +59,7 @@ button {
 .parte_arriba {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 164px;
+    margin-bottom: 100px;
 }
 
 .lista_pro9 {
@@ -105,6 +115,7 @@ p {
 .bloque_imagenes {
     display: flex;
     justify-content: center;
+    margin-top: 118px;
 }
 
 .img1_pro9 img {
