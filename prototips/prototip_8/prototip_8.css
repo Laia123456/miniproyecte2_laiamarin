@@ -79,3 +79,71 @@ button {
     margin-top: 64px;
     border-radius: 32px;
 }
+
+.lista_texto {
+    margin-left: 138px;
+    width: 456px;
+    height: 464px;
+    margin-top: -100px;
+}
+
+.caja_num {
+}
+
+.num {
+    font-size: 32px;
+    margin:0;
+    color: white;
+}
+
+.caja_text {
+    margin-top: 16px;
+}
+
+.text {
+    font-size: 24px;
+    margin: 0;
+    color: rgba(255, 255, 255, 0.788);
+}
+
+.bloque1 {
+    margin-top: 38px;
+}
+
+.bloque2 {
+    margin-top: 40px;
+}
+
+.bloque3 {
+    margin-top: 40px;
+}
+
+.divisor3 {
+    border: solid 5px white;
+}
+
+.fotos_abajo {
+    display: flex;
+    justify-content: center;
+}
+
+.img1_bottom img {
+    width: 412px;
+    height: 260px;
+    margin-left: 45px;
+    border-radius: 16px;
+}
+
+.img2_bottom img {
+    width: 412px;
+    height: 260px;
+    margin-left: 24px;
+    border-radius: 16px;
+}
+
+.img3_bottom img {
+    width: 412px;
+    height: 260px;
+    margin-left: 24px;
+    border-radius: 16px;
+}
