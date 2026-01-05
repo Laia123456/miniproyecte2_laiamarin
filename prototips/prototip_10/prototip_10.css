@@ -1,7 +1,15 @@
 body {
-    background-color: #000000;
+    background-color: whitesmoke;
     font-family: 'Courier New', Courier, monospace;
     color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 1440px;
+    height: 1024px;
+    background-color: #000000;
 }
 
 .divisor_1 {
@@ -47,7 +55,7 @@ button {
 }
 
 .img1_pro10 {
-    width: 1000px;
+    width: 800px;
     position: absolute;
     z-index: 0;
     margin-left: 220px;
@@ -60,7 +68,6 @@ button {
 }
 
 .cuadrito_1 {
-
     width: 238px;
     height: 100px;
     display: flex;
@@ -68,8 +75,8 @@ button {
     align-items: center;
     position: absolute;
     z-index: 2;
-    margin-left: 1310px;
-    margin-top: -400px;
+    margin-left: 1160px;
+    margin-top: -420px;
 }
 
 .cuadrito_2 {
@@ -80,8 +87,8 @@ button {
     align-items: center;
     position: absolute;
     z-index: 2;
-    margin-left: 875px;
-    margin-top: 65px;
+    margin-left: 780px;
+    margin-top: -55px;
 }
 
 h2 {
@@ -107,6 +114,7 @@ h2 {
     display: flex;
     justify-content: center;
     justify-content: space-between;
+    margin-top: -150px;
 }
 
 .cuadro_1 {
