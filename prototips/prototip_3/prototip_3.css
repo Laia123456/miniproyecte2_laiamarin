@@ -1,6 +1,14 @@
 body {
     font-family: 'Arial', sans-serif;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
     background-color: #F2F2F2;
+    width: 1440px;
+    height: 1475px;
 }
 
 .caja_textos {
