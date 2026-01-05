@@ -6,7 +6,8 @@ body {
 .caja_textos {
     width: 695px;
     height: 297px;
-    margin: auto;
+    margin-left: 358px;
+    margin-top: 64px;
 }
 
 h1 {
@@ -26,6 +27,7 @@ h1 {
     width: 182px;
     height: 66px;
     font-size: 24px;
+    border: none;
 }
 
 .boton {
@@ -33,7 +35,91 @@ h1 {
     justify-content: center;
 }
 
+.secction_guardar {
+    position: relative;
+}
+
+.cuadro_lista {
+    width: 1048px;
+    height: 191px;
+    background-color: white;
+    margin-top: 56px;
+    margin-left: 196px;
+    border-radius: 48px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    z-index: 1;
+}
+
+.minicuadro_1 {
+    width: 176px;
+    height: 111px;
+    margin-left: 64px;
+}
+
+.minicuadro_2 {
+    width: 176px;
+    height: 111px;
+}
+
+.minicuadro_3 {
+    width: 176px;
+    height: 111px;
+}
+
+.minicuadro_4 {
+    width: 176px;
+    height: 111px;
+    margin-right: 64px;
+}
+
+h2 {
+    margin: 0;
+    margin-bottom: 12px;
+}
+
+.p_minicuadro {
+    margin: 0;
+    margin-top: 12px;
+}
+
 .img_rectangulo img{
     width: 1312px;
     height: 526px;
+    border-radius: 24px;
+    display: flex;
+    position: absolute;
+    z-index: 0;
+    margin-left: 64px;
+    margin-top: 150px;
+}
+
+.cuadro_img {
+    width: 1313px;
+    height: 344px;
+    margin-top: 735px;
+    margin-left: 64px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img2_pro3 {
+    width: 411px;
+    height: 344px;
+    border-radius: 32px;
+}
+
+.img3_pro3 {
+    width: 411px;
+    height: 344px;
+    border-radius: 32px;
+}
+
+.img4_pro3 {
+    width: 411px;
+    height: 344px;
+    border-radius: 32px;
 }
